@@ -69,3 +69,6 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# Bundle and process CSS with Tailwind, Bootstrap, PostCSS, Sass in Rails via Node.js
+gem "cssbundling-rails", "~> 1.3", ">= 1.3.3"
